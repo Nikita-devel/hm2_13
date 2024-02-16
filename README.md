@@ -1,3 +1,5 @@
+[Main page](https://github.com/Nikita-devel) | [Python Web Page](https://github.com/Nikita-devel/Python_Web)
+
 # REST API Enhancement and Django Application Refinement
 
 ## Part 1: REST API Enhancement
